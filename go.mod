@@ -1,4 +1,4 @@
-module github.com/firecow/caddy-elastic-encoder
+module github.com/Kalkran/caddy-elastic-encoder
 
 go 1.17
 
